@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 *.dat
 *.mf
 *.xml
 *.class
 *.properties
+=======
+*.dat
+*.mf
+*.xml
+*.class
+*.properties
+>>>>>>> f20f83c76b487a88252f7e23d988b7114f787720
 *.netbeans
